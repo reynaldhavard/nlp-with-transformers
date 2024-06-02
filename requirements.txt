@@ -5,6 +5,9 @@ ipykernel==6.29.4
 ipywidgets==8.1.2
 matplotlib==3.9.0
 pandas==2.2.2
+py7zr==0.21.0
+rouge_score==0.1.2
+sacrebleu==2.4.2
 scikit-learn==1.4.2
 sentencepiece==0.2.0
 seqeval==1.2.2
